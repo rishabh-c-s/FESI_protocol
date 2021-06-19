@@ -1,0 +1,7 @@
+Import('*')
+
+all_protocols.extend([
+'FESI',
+])
+
+protocol_dirs.append(str(Dir('.').abspath))

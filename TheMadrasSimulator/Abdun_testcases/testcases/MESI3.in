@@ -1,0 +1,15 @@
+MESI
+1 r 0x120024
+1 w 0x120032
+1 r 0x12011c
+1 w 0x12012a
+1 r 0x120234
+1 w 0x120224
+1 r 0x12031d
+1 w 0x120324
+1 r 0x12043f
+1 w 0x120524
+2 r 0x120614
+1 r 0x120625
+-1
+This testcase tests writeback of evicted blocks

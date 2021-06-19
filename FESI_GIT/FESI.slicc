@@ -1,0 +1,5 @@
+protocol "FESI";
+include "RubySlicc_interfaces.slicc";
+include "FESI-msg.sm";
+include "FESI-cache.sm";
+include "FESI-dir.sm";

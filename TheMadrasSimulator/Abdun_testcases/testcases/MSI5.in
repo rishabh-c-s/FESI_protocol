@@ -1,0 +1,10 @@
+MSI
+3 r 0x1200c4
+3 w 0x1200c4
+3 r 0x1201c4
+3 r 0x1202c4
+3 r 0x1203c4
+0 w 0x1204c4
+3 r 0x1204c4
+-1
+This testcase tests a case where double flush happens for same request
